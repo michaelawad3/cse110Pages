@@ -4,7 +4,7 @@
 *A picture of me playing **THE FINALS** on my friend's setup*
 
 ## Introduction
-My Name is Michael Awad and I am a transfer student in my third year studying Computer Science here at UCSD. I have experience in Python, C/C++, Java, and HTML/CSS/Javascript.
+My Name is Michael Awad and I am a transfer student in my third year studying Computer Science here at UCSD. I have experience in ```Python```, ```C/C++```, ```Java```, and ```HTML/CSS/Javascript```.
 
 Outside of school, my hobbies include going to the gym, gaming, reading, photography, and just learning new things. 
 
@@ -14,6 +14,7 @@ Outside of school, my hobbies include going to the gym, gaming, reading, photogr
 My favorite TV Show is New Girl, and my favorite quote from the show is:
 > I'm not convinced I know how to read. I've just memorized a lot of words. - Nick Miller
 
+## Classes
 ### CSE classes I've taken this year:
 - CSE 21
 - CSE 29
@@ -37,5 +38,5 @@ My favorite TV Show is New Girl, and my favorite quote from the show is:
 
 [Intro](#introduction)
 [Fun Fact](#fun-fact)
-[Classes](#cse-classes-ive-taken-this-year)
+[Classes](#classes)
 [Back to top](#michael-awad)
