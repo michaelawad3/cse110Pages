@@ -1,5 +1,5 @@
 # Michael Awad
-! [Image of me playing THE FINALS](images/img0.jpg)
+![Image of me playing THE FINALS](images/img0.jpg)
 *A picture of me playing "THE FINALS" on my friend's setup*
 
 ## Introduction
