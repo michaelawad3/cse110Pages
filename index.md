@@ -4,14 +4,24 @@
 *A picture of me playing **THE FINALS** on my friend's setup*
 
 ## Introduction
-My Name is Michael Awad and I am a transfer student in my third year studying Computer Science here at UCSD. I have experience in ```Python```, ```C/C++```, ```Java```, and ```HTML/CSS/Javascript```.
+My Name is Michael Awad and I am a third year transfer student studying Computer Science here at UCSD. 
+I have experience with:
+
+```python
+print("Python")
+printf("C");
+std::cout << "C++";
+System.out.println("Java");
+console.log("JavaScript");
+```
 
 Outside of school, my hobbies include going to the gym, gaming, reading, photography, and just learning new things. 
 
 [Linkedin](https://www.linkedin.com/in/michael-awad-314483297/)
 
 ## Fun Fact
-My favorite TV Show is New Girl, and my favorite quote from the show is:
+My favorite TV Show is New Girl and I have rewatched it an unhealthy amount of times.
+My favorite quote from the show is:
 > I'm not convinced I know how to read. I've just memorized a lot of words. - Nick Miller
 
 ## Classes
