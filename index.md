@@ -1,6 +1,6 @@
 # Michael Awad
 ![Image of me playing THE FINALS](images/img0.jpg)
-*A picture of me playing "THE FINALS" on my friend's setup*
+*A picture of me playing **THE FINALS** on my friend's setup*
 
 ## Introduction
 My Name is Michael Awad and I am a transfer student in my third year studying Computer Science here at UCSD. I have experience in Python, C/C++, Java, and HTML/CSS/Javascript.
