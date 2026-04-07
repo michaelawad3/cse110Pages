@@ -14,12 +14,11 @@ std::cout << "C++";
 System.out.println("Java");
 console.log("JavaScript");
 ```
+but my favorite is in [README.md](README.md)
 
 Outside of school, my hobbies include going to the gym, gaming, reading, photography, and just learning new things. 
 
 [Linkedin](https://www.linkedin.com/in/michael-awad-314483297/)
-
-[README](README.md)
 
 ## Fun Fact
 My favorite TV Show is New Girl and I have rewatcgit hed it an unhealthy amount of times.
