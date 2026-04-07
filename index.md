@@ -21,7 +21,7 @@ Outside of school, my hobbies include going to the gym, gaming, reading, photogr
 [Linkedin](https://www.linkedin.com/in/michael-awad-314483297/)
 
 ## Fun Fact
-My favorite TV Show is New Girl and I have rewatcgit hed it an unhealthy amount of times.
+My favorite TV Show is New Girl and I have rewatched it an unhealthy amount of times.
 My favorite quote from the show is:
 > I'm not convinced I know how to read. I've just memorized a lot of words. - Nick Miller
 
