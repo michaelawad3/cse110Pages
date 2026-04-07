@@ -19,7 +19,7 @@ Outside of school, my hobbies include going to the gym, gaming, reading, photogr
 
 [Linkedin](https://www.linkedin.com/in/michael-awad-314483297/)
 
-(README.md)[README.md]
+[README](README.md)
 
 ## Fun Fact
 My favorite TV Show is New Girl and I have rewatcgit hed it an unhealthy amount of times.
